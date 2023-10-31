@@ -7,10 +7,6 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
-		},
-		{
-			"Name": "EOSShared",
-			"Enabled": true
 		}
 	]
 }
